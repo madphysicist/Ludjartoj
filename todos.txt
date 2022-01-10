@@ -1,0 +1,3 @@
+http://blockdiag.com/en/seqdiag/sphinxcontrib.html
+
+sphinxcontrib-blockdiag
