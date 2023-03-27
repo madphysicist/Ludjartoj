@@ -1,3 +1,5 @@
+This project has moved to GitLab: https://gitlab.com/madphysicist/ludkartoj. Please download the latest code and submit issues there rather than GitHub, which will no longer be monitored until this stale clone is deleted.
+
 Ludkartoj
 =========
 
@@ -23,4 +25,3 @@ Future
 I will eventually expand this to include turn-based board games, since there
 is nothing really differentiating them from card games besides some of the
 state terminology.
-
